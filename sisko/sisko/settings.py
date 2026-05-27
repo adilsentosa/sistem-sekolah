@@ -42,7 +42,7 @@ INSTALLED_APPS = [
     'teachers',
     'academics',
     'attandance',
-    'grades',
+    'grade',
 
 ]
 
